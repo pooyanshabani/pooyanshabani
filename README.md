@@ -4,4 +4,5 @@
 [![pooyanshabani](https://img.shields.io/badge/JS-75-yellow)](https://pooyan-shabani.ir)
 #
 [![pooyanshabani](/img/zhaket.com-darsad-store.jpg)](https://pooyan-shabani.ir)
-<a href="https://www.zhaket.com/store/web/darsad/intro"><img src="/img/zhaket.com-darsad-store.jpg" style="border-radius:25px"></a>
+<a href="https://www.zhaket.com/store/web/darsad/intro" target="_blank"><img src="/img/zhaket.com-darsad-store.jpg" style="border-radius:25%"></a>
+
