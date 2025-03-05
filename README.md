@@ -4,5 +4,6 @@
 [![pooyanshabani](https://img.shields.io/badge/JS-75-yellow)](https://pooyan-shabani.ir)
 #
 [![pooyanshabani](/img/zhaket.com-darsad-store.jpg)](https://pooyan-shabani.ir)
-
+#
+NONINTERACTIVE=1 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
